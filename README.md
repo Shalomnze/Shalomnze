@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shalomnze
-- 👀 I’m interested in Designing and manhwa
+- 👀 I’m interested in designing and manhwa
 - 🌱 I’m currently improving myself in software development as well as UI designs
 - 💞️ I’m looking to collaborate on projects pertaining to front-end development as well as UI designs.
 - 📫 You can reach out to me on my email @nzeugochukwu4@gmail.com or through my mobile number - +2349050561341
